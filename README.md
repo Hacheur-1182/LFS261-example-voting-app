@@ -1,4 +1,4 @@
-Example Voting App Hacheur
+Example Voting App
 =========
 
 Getting started
